@@ -1,0 +1,28 @@
+{
+	"data": [
+		{
+			"mainCategory": "main1",
+			"subCategory": "sub1",
+			"contributor": "SamuelMotal",
+			"name": "aTest",
+			"details": "This is a test with some details",
+			"keywords": ["test","sam","details"]
+		},
+		{
+			"mainCategory": "main2",
+			"subCategory": "sub2",
+			"contributor": "SamuelMotal",
+			"name": "aTest2",
+			"details": "This is a test with some more details",
+			"keywords": ["test","sam","details2"]
+		},
+		{
+			"mainCategory": "main2",
+			"subCategory": "sub1",
+			"contributor": "SamuelMotal",
+			"name": "aTest3",
+			"details": "This is a test3",
+			"keywords": ["test","sam","details3"]
+		}
+	]
+}
